@@ -64,6 +64,12 @@
             <svg class="icon icon-telegram"><use xlink:href="#icon-telegram"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.mastodon %}
+        <a class="link" data-title="t.me/{{ site.mastodon }}" href="https://t.me/{{ site.mastodon }}" target="_blank">
+            <svg class="icon icon-mastodon"><use xlink:href="#icon-mastodon"></use></svg>
+        </a>
+    {% endif %}
     {% if site.stackoverflow %}
         <a class="link" data-title="stackoverflow.com/users/{{ site.stackoverflow }}" href="http://stackoverflow.com/users/{{ site.stackoverflow }}" target="_blank">
             <svg class="icon icon-stackoverflow"><use xlink:href="#icon-stackoverflow"></use></svg>
