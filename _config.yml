@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: rodrigoabel
+facebook: rodrigo.abel
 twitter: rodrigo_abel
 # google: mygoogle
 # instagram: myinstagram
@@ -52,7 +52,7 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-    johndoe:
+    rodrigoabel:
         name: Rodrigo Abel
         bio: A Man who travels the world eating noodles
         external-image: false
@@ -79,7 +79,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
