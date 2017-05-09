@@ -5,7 +5,7 @@ date: 2017-05-05 10:00
 tag:
 - latex
 - udp
-image: assets/images/perfil.jpg
+image: http://www.cienciasbasicas.udp.cl/img/encabezado.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
