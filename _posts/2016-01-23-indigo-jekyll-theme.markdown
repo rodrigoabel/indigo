@@ -9,7 +9,7 @@ image: assets/images/perfil.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Guias de estudio realizadas para la universidad Diego Portales"
+description: "Guias de estudio realizadas para la Universidad Diego Portales"
 category: project
 author: johndoe
 externalLink: false
