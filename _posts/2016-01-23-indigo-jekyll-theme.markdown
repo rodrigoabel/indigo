@@ -5,7 +5,7 @@ date: 2017-05-05 10:00
 tag:
 - latex
 - udp
-image: http://www.cienciasbasicas.udp.cl/img/encabezado.jpg
+image: https://github.com/rodrigoabel/rodrigoabel.github.io/blob/master/assets/images/udp.jpg?raw=true
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
