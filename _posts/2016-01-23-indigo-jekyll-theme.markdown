@@ -1,13 +1,15 @@
 ---
-title: ":books: Indigo, minimalist jekyll theme"
+title: ":books: Latex Ingeniería UDP 2017"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+date: 2017-05-05 10:00
+tag:
+- latex
+- udp
+image: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiokrOijuPTAhXIx5AKHa8lD6sQjRwIBw&url=http%3A%2F%2Fwww.cienciasbasicas.udp.cl%2F&psig=AFQjCNFNhOFHLdHX5Cb7WjM85VSlyjhLKg&ust=1494429594795999
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Guias de estudio realizadas para la universidad Diego Portales "
 category: project
 author: johndoe
 externalLink: false
