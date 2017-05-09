@@ -15,7 +15,7 @@ author: johndoe
 externalLink: false
 ---
 
-#![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+# ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
 Para mejorar la calidad del material entregado a los alumnos de Ingeniería, la Facultad de Ciencias Básicas de la UDP ha encargado la elaboracion de guias para sus alumnos. [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
