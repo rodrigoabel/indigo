@@ -55,11 +55,11 @@ mastodon: rodrigoabel
 
 authors:
     rodrigoabel:
-        name: Rodrigo Abel
-        bio: A Man who travels the world eating noodles
+        name: rodrigoabel
+        bio: Ingeniero civil en informática y telecomunicaciones
         external-image: false
         picture: assets/images/perfil.jpg
-        twitter: johndoe
+        twitter: rodrigo_abel
 #    jamesfoster:
 #        name: James Foster
 #        bio: A Man who develops software with coffee
