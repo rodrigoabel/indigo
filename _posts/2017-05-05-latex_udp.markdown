@@ -17,21 +17,16 @@ externalLink: false
 
 # ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Para mejorar la calidad del material entregado a los alumnos de Ingeniería, la Facultad de Ciencias Básicas de la UDP ha encargado la elaboracion de guias para sus alumnos. [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Para mejorar la calidad del material entregado a los alumnos de Ingeniería, la Facultad de Ciencias Básicas de la UDP ha encargado la elaboracion de guias para sus alumnos.
 
 ---
 
-What has inside?
+## Cálculo 2
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+[Ayudantía 1](C2/GuiaAy1/c2-ay1.pdf) - Técnicas de integración ([Pauta ej1](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy1/Pauta/c2-ay1-ej1.pdf) - [Pauta ej2](C2/GuiaAy1/Pauta/c2-ay1-ej2.pdf) - [Pauta ej3](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy1/Pauta/c2-ay1-ej3.pdf) - [Pauta ej4](C2/GuiaAy1/Pauta/c2-ay1-ej4.pdf) - [Pauta ej5](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy1/Pauta/c2-ay1-ej5.pdf))<br />
+[Ayudantía 2](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy2/c2-ay2.pdf) - Integrales trigonométricas y sustitución trigonométrica ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy2/pauta/c2-ay2-pauta.pdf))<br />
+[Ayudantía 3](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy3/c2-ay3.pdf) - Fracciones parciales y tangente del angulo medio ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy3/pauta/c2-ay3-pauta.pdf))<br />
+[Ayudantía 4](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy4/c2-ay4.pdf) - Máximo/mínimo y sumas de Riemann ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy4/pauta/c2-ay4-pauta.pdf))<br />
+[Ayudantía 5](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy5/c2-ay5.pdf) - Integral definida ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy5/pauta/c2-ay5-pauta.pdf))<br />
+[Ayudantía 6](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy6/c2-ay6.pdf) - Integral definida 2 ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy6/pauta/c2-ay6-pauta.pdf))<br />
+[Ayudantía 7](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy7/c2-ay7.pdf) - Aplicaciones de la integral
