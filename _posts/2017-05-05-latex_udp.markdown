@@ -15,9 +15,9 @@ author: johndoe
 externalLink: false
 ---
 
-# ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Para mejorar la calidad del material entregado a los alumnos de Ingeniería, la Facultad de Ciencias Básicas de la UDP ha encargado la elaboracion de guias para sus alumnos.
+
+Guías elaboradas para la realización de ayudantías del curso de cálculo 2 durante el primer semestre del año 2017.
 
 ---
 
