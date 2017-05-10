@@ -11,17 +11,19 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Guias de estudio realizadas para la Universidad Diego Portales"
 category: project
-author: johndoe
+author: Rodrigo Abel
 externalLink: false
 ---
 
 
 
-Guías elaboradas para la realización de ayudantías del curso de cálculo 2 durante el primer semestre del año 2017.
+
 
 ---
 
 ## Cálculo 2
+
+Guías elaboradas para la realización de ayudantías del curso de cálculo 2 durante el primer semestre del año 2017.
 
 [Ayudantía 1](C2/GuiaAy1/c2-ay1.pdf) - Técnicas de integración ([Pauta ej1](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy1/Pauta/c2-ay1-ej1.pdf) - [Pauta ej2](C2/GuiaAy1/Pauta/c2-ay1-ej2.pdf) - [Pauta ej3](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy1/Pauta/c2-ay1-ej3.pdf) - [Pauta ej4](C2/GuiaAy1/Pauta/c2-ay1-ej4.pdf) - [Pauta ej5](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy1/Pauta/c2-ay1-ej5.pdf))<br />
 [Ayudantía 2](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy2/c2-ay2.pdf) - Integrales trigonométricas y sustitución trigonométrica ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy2/pauta/c2-ay2-pauta.pdf))<br />
