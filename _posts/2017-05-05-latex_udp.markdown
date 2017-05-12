@@ -32,3 +32,9 @@ Guías elaboradas para la realización de ayudantías del curso de cálculo 2 du
 [Ayudantía 5](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy5/c2-ay5.pdf) - Integral definida ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy5/pauta/c2-ay5-pauta.pdf))<br />
 [Ayudantía 6](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy6/c2-ay6.pdf) - Integral definida 2 ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy6/pauta/c2-ay6-pauta.pdf))<br />
 [Ayudantía 7](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy7/c2-ay7.pdf) - Aplicaciones de la integral ([Pauta](https://github.com/rodrigoabel/Latex_UDP/blob/master/C2/GuiaAy7/pauta/c2-ay7-pauta.pdf))
+
+
+## Guías complementarias Álgebra y Geometría
+
+
+[Guía5](https://github.com/rodrigoabel/Latex_UDP/blob/master/AyG/AyG-Guia5/ayg-guia5.pdf) - Cónias nº1: rectas y circunferencias
